@@ -1,12 +1,20 @@
 ---
 layout: post
-title: With nice formatting too...
+title: Ideation
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
->"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+- 1. Ideation
+  
+  Project name : *I’ll Separate*
+  
+>" 일회용 쓰레기 처리는 요즘 화두가 되고있는 문제입니다. 분리수거만 잘해도 연 100억원이라는 수치의 이익을 남기게 되며
+뿐만아니라 환경적으로 큰 도움이 됩니다. 하지만 서울 밤도깨비 야시장이나 부평깡통시장 같은 경우를 예시로, 일회용품이 많이쓰이고 
+제대로 되지 않는 분리수거때문에 늘 어려움을 겪습니다. 뿐만 아니라 가정에서 나온 쓰레기의 73%가 같은 수거함에 버려지고 있다
+지방정부가 시민들의 분리수거 참여를 위해 애를 쓰고 있지만, 시민의 참여는 기대에 미치지 못하고 있습니다. 
+우리는 이 문제에 대해 로봇 혹은 자동화 서비스로 사람들이 편리하게 분리수거를 이용할 만한 방법을 재고하는데 고민을 해보았습니다.
+그리고 이것에 대한 해결방안으로 'I will Separate'라는 주제를 선택하게 되었으며 간단한 방법으로 분리수거를 할 수 있는 로봇을 
+EV3를 가지고 제작해보았습니다."
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -17,3 +25,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Plus **bolding** and *italics* and whatever else you want.
 
 [Download this template](https://github.com/adueck/cayman-blog/archive/master.zip) or get it from the [GitHub repo](https://github.com/adueck/cayman-blog).
+
+
+
+
+
