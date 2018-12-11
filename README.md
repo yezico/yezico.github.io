@@ -6,7 +6,7 @@ To get this going follow these simple steps:
 
 1. Fork, clone, or download the repository
 2. Edit <code>_config.yml</code>
-3. If you want, swap `img/cover.jpg` for your own header image
+3. If you want, swap `img/coverup.jpg` for your own header image
 3. Fill up the `_posts` folder with whatever you want to say
 4. run <code>jekyll build</code> and then <code>jekyll serve</code>  
 note: This will require the `jekyll-paginate` gem `$ gem install jekyll-paginate`
