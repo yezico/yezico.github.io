@@ -1,8 +1,16 @@
 ---
 layout: post
-title: Sample post
+title: Introduction
 ---
 
-This is what a post on your blog looks like. This template is especially well suited for posting nice succint blurbs, much like [Seth Godin](http://sethgodin.typepad.com/) does. Of course, it will also work well with longer posts, and you can change the number of posts per page in the `_config.yml` file. There's no guarentee this blog will make you write as well as he does, but it will present your writings in a beautiful, clean, and distraction-free way. Try to write a little bit, every day.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Name : Seo Ye-jin
+- Student number : 2017012942
+- Team : Artist 
+
+
+블로그는 한양대학교 에리카 캠퍼스의 스마트 센서와 액츄에이터 전공수업의 일환으로 진행되는 프로젝트 입니다. 마인드 스톰 EV3로봇을 가지고 새로운 창작물을 개발해내는 수업이며, 로봇을 통한 프로그래밍으로 흥미를 유발 시킵니다. 또한 각자 팀프로젝트를 시행하여 즐거운 결과물을 도출해냅니다.  
+
+
+우리팀은 Artist 팀이며 ' 내인생은 내가 design해 '라는 문구와 같이 우리모두 아마추어이지만 인생을 만들어 나가는 아티스트입니다. 
+그렇기 때문에 Artist 이름을 갖게 되었으며 뿐만아니라 스마트센서와 액츄에이터 수업에서 Artist감성을 내세울 수 있는 결과물을 만들고자 선정하게 되었습니다.  
