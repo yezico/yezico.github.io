@@ -7,7 +7,7 @@
 
 # Site settings
 title: Artist-Jin
-description: '' # write a nice description for your blog
+description: 'Smart-sensor Project at Hanyang University' # write a nice description for your blog
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
