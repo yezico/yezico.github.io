@@ -16,7 +16,6 @@ title: Ideation
 그리고 이것에 대한 해결방안으로 'I will Separate'라는 주제를 선택하게 되었으며 간단한 방법으로 분리수거를 할 수 있는 로봇을 
 EV3를 가지고 제작해보았습니다."
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - list item
 - list item
@@ -24,7 +23,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 Plus **bolding** and *italics* and whatever else you want.
 
-[Download this template](https://github.com/adueck/cayman-blog/archive/master.zip) or get it from the [GitHub repo](https://github.com/adueck/cayman-blog).
+
 
 
 
