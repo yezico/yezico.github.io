@@ -4,7 +4,7 @@ title: Production
 ---
 
 
-##  Ideation
+# Ideation
 
   <img src="{{ "/img/1.JPG" | absolute_url }}" alt="" />
   
