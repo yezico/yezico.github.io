@@ -29,9 +29,9 @@ This blog is a part of the Smart Sensor and Actuator Course at Hanyang Universit
 
    <img src="{{ "/img/4.JPG" | absolute_url }}" alt="" />
 
-     - 서예진 - 기획/개발 
-     - 안수민 - 개발/디자인
-     - 한지혜 - 기획/디자인
+     - 서예진 : 기획/개발 
+     - 안수민 : 개발/디자인
+     - 한지혜 : 기획/디자인
      
 
 
