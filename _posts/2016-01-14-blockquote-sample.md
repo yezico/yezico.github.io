@@ -4,9 +4,17 @@ title: Ideation
 ---
 
 
-- 1. Ideation
+# 1. Ideation
+
+  <img src="{{ "/img/1.JPG" | absolute_url }}" alt="" />
   
-  Project name : *I’ll Separate*
+   -Project name : *I’ll Separate*
+   
+
+   <img src="{{ "/img/슬라이드6.JPG" | absolute_url }}" alt="" />
+   <img src="{{ "/img/슬라이드7.JPG" | absolute_url }}" alt="" />
+   <img src="{{ "/img/슬라이드8.JPG" | absolute_url }}" alt="" />
+  
   
 >" 일회용 쓰레기 처리는 요즘 화두가 되고있는 문제입니다. 분리수거만 잘해도 연 100억원이라는 수치의 이익을 남기게 되며
 뿐만아니라 환경적으로 큰 도움이 됩니다. 하지만 서울 밤도깨비 야시장이나 부평깡통시장 같은 경우를 예시로, 일회용품이 많이쓰이고 
