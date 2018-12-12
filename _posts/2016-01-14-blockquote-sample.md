@@ -28,9 +28,27 @@ Local governments are struggling to get citizens to participate in separate segr
   <img src="{{ "/img/슬라이드14.JPG" | absolute_url }}" alt="" />
   <img src="{{ "/img/슬라이드15.JPG" | absolute_url }}" alt="" />
 
-- list item
-- list item
-- list item
+  This is our Thinking of 'I will Separate'. First, Stick the sticker on the object. Second, The color sensor recognizes.Third, Arm of     the Large motor separates the  for each color items.  
+
+
+### Completed
+
+<img src="{{ "/img/슬라이드20.JPG" | absolute_url }}" alt="" />
+
+We used color Sensor, Large motor, Medium motor
+
+
+##### Color Sensor
+<img src="{{ "/img/슬라이드21.JPG" | absolute_url }}" alt="" />
+
+##### Large motor and Medium motor
+<img src="{{ "/img/슬라이드22.JPG" | absolute_url }}" alt="" />
+
+##### View from above and all Sensor and Main body
+<img src="{{ "/img/슬라이드23.JPG" | absolute_url }}" alt="" />
+
+
+
 
 Plus **bolding** and *italics* and whatever else you want.
 
