@@ -4,25 +4,26 @@ title: Introduction
 ---
 
 <br>
-- Name : Seo Ye-jin
-- Student number : 2017012942
-- Team : Artist 
+     - Name : Seo Ye-jin
+     - Student number : 2017012942
+     - Team : Artist 
 
 
 <br>
-  블로그는 한양대학교 에리카 캠퍼스의 스마트 센서와 액츄에이터 전공수업의 일환으로 진행되는 프로젝트 입니다. 마인드 스톰 EV3로봇을 가지고 새로운 창작   물을 개발해내는 수업이며, 로봇을 통한 프로그래밍으로 흥미를 유발 시킵니다. 또한 각자 팀프로젝트를 시행하여 즐거운 결과물을 도출해냅니다.  
+
+This blog is a part of the Smart Sensor and Actuator Course at Hanyang University ERICA Campus. Mindstorm EV3 This is a class for developing new creative things with robots and programming with robots. We also run a team project to produce good results.  
 
 
   <img src="{{ "/img/3.JPG" | absolute_url }}" alt="" />
 
   ## " We are Artist "
 <br>
-    우리팀은 Artist 팀이며 ' 내인생은 내가 design해 '라는 문구와 같이 우리 모두 아마추어이지만 인생을 만들어 나가는 아티스트입니다. 
-    그렇기 때문에 Artist 이름을 갖게 되었으며 뿐만아니라 스마트센서와 액츄에이터 수업에서 Artist감성을 내세울 수 있는 결과물을 만들고자 선정하게 되었     습니다.  
+
+   Our team is an artist team and we are all amateur artists who make life, like the phrase 'My life is my design'.
+   Therefore,we got the Artist name and I decided to create an artistic sensation in the 'smart sensor and actuator' classes.
     
 
    <img src="{{ "/img/4.JPG" | absolute_url }}" alt="" />
-   
    
    
   ###### - 서예진 - 기획/개발 
