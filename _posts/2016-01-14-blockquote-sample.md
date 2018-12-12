@@ -50,12 +50,15 @@ We used color Sensor, Large motor, Medium motor
 
 
 ---
-title: Argorithm
+title: Programming
 ---
+
+
+### Argorithm
 
 <img src="{{ "/img/슬라이드28.JPG" | absolute_url }}" alt="" />
 
-###Code
+### Code
 
 
 
