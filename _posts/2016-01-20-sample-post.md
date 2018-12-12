@@ -15,9 +15,9 @@ title: Introduction
 
   <img src="{{ "/img/3.JPG" | absolute_url }}" alt="" />
 
-  - " We are Artist "
+  ## " We are Artist "
 
-    우리팀은 Artist 팀이며 ' 내인생은 내가 design해 '라는 문구와 같이 우리모두 아마추어이지만 인생을 만들어 나가는 아티스트입니다. 
+    우리팀은 Artist 팀이며 ' 내인생은 내가 design해 '라는 문구와 같이 우리 모두 아마추어이지만 인생을 만들어 나가는 아티스트입니다. 
     그렇기 때문에 Artist 이름을 갖게 되었으며 뿐만아니라 스마트센서와 액츄에이터 수업에서 Artist감성을 내세울 수 있는 결과물을 만들고자 선정하게 되었     습니다.  
 
    <img src="{{ "/img/4.JPG" | absolute_url }}" alt="" />
