@@ -22,9 +22,11 @@ title: Ideation
 Local governments are struggling to get citizens to participate in separate segregation, but citizen participation is less than expected.We have been worried about reconsidering the way that people can conveniently use separate collection with robots or automated services.And as a solution to this, I have chosen the topic 'I will Separate' We made it with EV3-Mindstorm."
 
 
+### Simulation
 
-
-  -Sensor
+  <img src="{{ "/img/슬라이드13.JPG" | absolute_url }}" alt="" />
+  <img src="{{ "/img/슬라이드14.JPG" | absolute_url }}" alt="" />
+  <img src="{{ "/img/슬라이드15.JPG" | absolute_url }}" alt="" />
 
 - list item
 - list item
