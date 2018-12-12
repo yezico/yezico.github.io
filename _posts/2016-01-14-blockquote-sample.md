@@ -4,7 +4,7 @@ title: Production
 ---
 
 
-#  Ideation
+##  Ideation
 
   <img src="{{ "/img/1.JPG" | absolute_url }}" alt="" />
   
@@ -49,9 +49,9 @@ We used color Sensor, Large motor, Medium motor
 
 
 
----
+----
 title: Programming
----
+----
 
 
 ### 1. Argorithm
