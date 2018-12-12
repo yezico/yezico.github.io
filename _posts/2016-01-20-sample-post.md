@@ -14,8 +14,6 @@ title: Introduction
 
 
   <img src="{{ "3.jpg" | absolute_url }}" alt="" />
-  
-  <img src="{{ "4.jpg" | absolute_url }}" alt="" />
 
   - " We are Artist "
 
