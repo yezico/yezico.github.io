@@ -22,7 +22,7 @@ This blog is a part of the Smart Sensor and Actuator Course at Hanyang Universit
   
   <img src="{{ "/img/3.JPG" | absolute_url }}" alt="" />
 
-  ## " We are Artist "
+  ## We are Artist
 
    Our team is an artist team and we are all amateur artists who make life, like the phrase 'My life is my design'.
    Therefore,we got the Artist name and I decided to create an artistic sensation in the 'smart sensor and actuator' classes.
