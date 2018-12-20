@@ -12,7 +12,11 @@ title: Introduction
 
 
 This blog is a part of the Smart Sensor and Actuator Course at Hanyang University ERICA Campus. Mindstorm EV3 This is a class for developing new creative things with robots and programming with robots. We also run a team project to produce good results.  
- 
+
+https://youtu.be/umkADkTfHRw
+- This is our viedo.
+
+
 ### Who is Artist_Jin ?
   
   My name is Ye jin Seo I'm 2 year in ICT at hanyang university 
